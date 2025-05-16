@@ -4,6 +4,7 @@
     "ovo": "./index.js"
   },
   "version": "0.0.0-development",
+  "homepage": "/ovo/",
   "description": "An alternate Zipkin UI",
   "keywords": [
     "zipkin",
